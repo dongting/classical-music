@@ -6,24 +6,34 @@
 - [Bernstein](#bernstein)
 - [Bizet](#bizet)
 - [Borodin](#borodin)
+- [Brahms](#brahms)
 - [Britten](#britten)
+- [Chopin](#chopin)
+- [Copland](#copland)
+- [Debussy](#debussy)
 - [Dvorak](#dvorak)
 - [Elgar](#elgar)
+- [Franck](#franck)
 - [Gershwin](#gershwin)
-- [Glazounov](#glazounov)
+- [Glazunov](#glazunov)
 - [Grieg](#grieg)
+- [Holst](#holst)
 - [Janacek](#janacek)
+- [Khachaturian](#khachaturian)
 - [Liszt](#liszt)
 - [Mahler](#mahler)
 - [Mendelssohn](#mendelssohn)
 - [Mozart](#mozart)
 - [Mussorgsky](#mussorgsky)
 - [Paganini](#paganini)
+- [Penderecki](#penderecki)
+- [Poulenc](#poulenc)
 - [Prokofiev](#prokofiev)
 - [Rachmaninoff](#rachmaninoff)
 - [Ravel](#ravel)
 - [Rimsky-Korsakov](#rimsky-korsakov)
 - [Saint-Saens](#saint-saens)
+- [Satie](#satie)
 - [Schubert](#schubert)
 - [Schumann](#schumann)
 - [Scriabin](#scriabin)
@@ -31,19 +41,21 @@
 - [Smetana](#smetana)
 - [Sibelius](#sibelius)
 - [Stravinsky](#stravinsky)
+- [Strauss, Richard](#strauss--richard)
 - [Tchaikovsky](#tchaikovsky)
+- [Verdi](#verdi)
 - [Viotti](#viotti)
 - [Vivaldi](#vivaldi)
+- [Wagner](#wagner)
 - [Wieniawski](#wieniawski)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 <!---TOC generator: http://ecotrust-canada.github.io/markdown-toc/--->
 
 # Bach
 ## Well-tempered clavier
 * Angela Hewitt/CD (signed)
+## Aria variata alla maniera italiana
+* Ewa Poblocka/LP
 
 # Bartok
 ## Violin Concerto 1
@@ -54,6 +66,10 @@
 ## Concerto for Orchestra
 * Kubelik/Boston Symphony/LP
 * Szell/Cleveland Orchestra/LP
+## Deux Images
+* Ormandy/Philadelphia Orchestra/LP
+## Miraculous Mandarin Suite
+* Ormandy/Philadelphia Orchestra/LP
 
 # Beethoven
 ## Piano Concerto 1
@@ -63,12 +79,15 @@
 * Gilels/Masur/State Symphony Orchestra of the USSR/CD
 * Lupu/Mehta/Israel Philharmonic/LP
 ## Piano Concerto 3
+* Gilels/Alexander Gauk/USSR State Orchestra/LP
 * Gilels/Masur/State Symphony Orchestra of the USSR/CD
 * Gilels/Szell/Cleveland Orchestra/LP
 ## Piano Concerto 4
 * Gilels/Masur/State Symphony Orchestra of the USSR/CD
-## Piano Concerto 5
+## Piano Concerto 5 "Emperor"
+* Cliburn/Reiner/Chicago Symphony/LP
 * Gilels/Masur/State Symphony Orchestra of the USSR/CD
+* Horowitz/Reiner/RCA Symphony Orchestra/LP
 ## Symphony 1
 * Bernstein/VPO/CD
 * Karajan/BPO/CD
@@ -80,6 +99,7 @@
 ## Symphony 3 "Eroica"
 * Bernstein/VPO/CD
 * Karajan/BPO/CD
+* Karajan/BPO/LP
 * Rattle/VPO/CD
 ## Symphony 4
 * Bernstein/VPO/CD
@@ -98,6 +118,7 @@
 * Bernstein/VPO/CD
 * Karajan/BPO/CD
 * Karajan/BPO/LP
+* Carlos Kleiber/VPO/LP (sealed)
 * Rattle/VPO/CD
 ## Symphony 8
 * Bernstein/VPO/CD
@@ -137,12 +158,14 @@
 * Gilels/CD
 ## Piano Sonata 8 "Pathetique" (Op 13)
 * Gilels/CD
+* Horowitz/LP
 ## Piano Sonata 10 (Op 14)
 * Gilels/LP
 ## Piano Sonata 12 (Op 26)
 * Gilels/CD
 ## Piano Sonata 14 "Moonlight" (Op 27)
 * Gilels/CD
+* Horowitz/LP
 ## Piano Sonata 16 (Op 31)
 * Gilels/CD
 ## Piano Sonata 19 (Op 49)
@@ -151,6 +174,7 @@
 * Gilels/LP
 ## Piano Sonata 23 "Appassionata" (Op 57)
 * Gilels/CD
+* Horowitz/LP
 ## Piano Sonata 25 (Op 79)
 * Gilels/CD
 ## Piano Sonata 26 "Les adieux" (Op 81a)
@@ -159,10 +183,28 @@
 * Gilels/CD
 ## Piano Sonata 29 "Hammerklavier" (Op 106)
 * Gilels/CD
-## String Quartet in E minor Op 59 No 2
+## String Quartet "Rasumovsky" 7 Op 59 No 1
+* Juilliard String Quartet/LP
+## String Quartet "Rasumovsky" 8 Op 59 No 2
+* Juilliard String Quartet/LP
 * Shanghai Quartet/CD
-## String Quartet in C major Op 59 No 3
+## String Quartet "Rasumovsky" 9 Op 59 No 3
+* Juilliard String Quartet/LP
 * Shanghai Quartet/CD
+## String Quartet 10 Op 74 "Harp"
+* Juilliard String Quartet/LP
+## String Quartet 12 Op 127
+* Amadeus Quartet/LP
+## String Quartet 13 Op 130
+* Amadeus Quartet/LP
+## String Quartet 14 Op 131
+* Amadeus Quartet/LP
+## String Quartet 15 Op 132
+* Amadeus Quartet/LP
+## String Quartet Op 133
+* Amadeus Quartet/LP
+## String Quartet 16 Op 135
+* Amadeus Quartet/LP
 
 # Berlioz
 ## Harold in Italy
@@ -171,6 +213,8 @@
 # Bernstein
 ## Symphonic Dances from West Side Story
 * Ozawa/SF Symphony/LP
+## West Side Story (full)
+* Te Kanawa/Carreras/Troyanos/Ollmann/Bernstein/LP
 
 # Bizet
 ## Carmen (opera)
@@ -183,30 +227,97 @@
 * Karajan/BPO/LP
 
 # Borodin
+## In the Steppes of Central Asia
+* Georges Pretre/RPO/LP (sealed)
 ## Symphony 2
 * Rattle/BPO/CD
 ## Polovtsian Dances from Prince Igor
+* Georges Pretre/RPO/LP (sealed)
 * Rattle/BPO/CD
 ## String Quartet No 1
 * Borodin String Quartet/LP
 ## String Quartet No 2
 * Borodin String Quartet/LP
 
+# Brahms
+## Piano Concerto 2
+* Richter/Erich Leinsdorf/Chicago Symphony/LP
+* Rubinstein/Ormandy/Philadelphia Orchestra/LP (sealed)
+## Violin Concerto
+* Oistrakh/Szell/Cleveland Orchestra/LP
+## Hungarian Dances
+* No 1, 3, 5, 6, 17, 18, 19, 20: Karajan/BPO/LP
+## Symphony 1
+* Kubelik/VPO/LP
+## Symphony 2
+* Karajan/BPO/LP
+
 # Britten
 ## 4 Sea Interludes
 * Bernstein/Boston Symphony/CD
 
+# Chopin
+## 10 Mazurkas
+* Arturo Benedetti Michelangeli/LP
+## Ballade Op 23
+* Arturo Benedetti Michelangeli/LP
+## Prelude Op 45
+* Arturo Benedetti Michelangeli/LP
+## Scherzo Op 20
+* Ewa Poblocka/LP
+## Scherzo Op 31
+* Arturo Benedetti Michelangeli/LP
+
+# Copland
+## Piano Concerto
+* Copland/Bernstein/NY Phil/LP
+## Appalachian Spring Suite
+* Copland/LSO/LP
+## Billy the kid Ballet Suite
+* Copland/LSO/LP
+## Dance Panels
+* Copland/LSO/LP
+## Fanfare for the common man
+* Copland/LSO/LP
+## Four dance episodes from rodeo
+* Copland/LSO/LP
+## Lincoln Portrait
+* Copland/LSO/LP
+## Music for the theatre
+* Bernstein/NY Phil/LP
+## Our town
+* Copland/LSO/LP
+## El Salon Mexico
+* Copland/New Philharmonia Orchestra/LP
+
+# Debussy
+## Images
+* Ewa Poblocka/LP
+## Preludes
+* Claudio Arrau/LP (2 volumes)
+
 # Dvorak
 ## Cello Concerto
 * Du Pre/Barenboim/Chicago Symphony/CD
+## Piano Concerto
+* Richter/Carlos Kleiber/Bavarian State Orchestra/LP
 ## Carnival Overture
 * Bernstein/NY Phil/CD
+## Scherzo Capriccioso
+* Barbirolli/Halle Orchestra/LP
 ## Slavonic Dances Op 46
 * No 1, 3: Bernstein/NY Phil/CD
+* No 1, 3, 7, 10, 16: Karajan/BPO/LP
+* No 1-8: Szell/Cleveland Orchestra/LP
 * No 1, 2, 3, 8: Barry Wordsworth/Slovak Philharmonic Orchestra/CD
+## Slavonic Dances Op 72
+* No 1-8: Szell/Cleveland Orchestra/LP
 ## Symphony 6
 * Kubelik/BPO/LP
+## Symphony 7
+* Bernstein/NY Phil/LP
 ## Symphony 8
+* Barbirolli/Halle Orchestra/LP
 * Kubelik/BPO/CD
 * Szell/Cleveland Orchestra/LP
 ## Symphony 9
@@ -219,8 +330,19 @@
 ## Cello Concerto
 * Du Pre/Barbirolli/LSO/LP
 * Du Pre/Barbirolli/LSO/CD
+## Violin Concerto
+* Menuhin/Adrian Boult/New Philharmonia Orchestra/LP
+* Zukerman/Barenboim/LPO
+## Enigma Variations
+* Barbirolli/Philharmonia Orchestra/LP
+## Overture Cockaigne
+* Barbirolli/Philharmonia Orchestra/LP
 ## Sea Pictures
 * Janet Baker (mezzo-soprano)/Barbirolli/LSO/LP
+
+# Franck
+## Symphony in D minor
+* Munch/Boston Symphony/LP
 
 # Gershwin
 ## An American in Paris
@@ -233,14 +355,24 @@
 * Rostropovich/Ozawa/Boston Symphony/LP
 
 # Grieg
+## Piano Concerto
+* Philippe Entremont/Ormandy/Philadelphia Orchestra/LP
 ## Peer Gynt Suites 1 & 2
 * Gennady Rozhdestvensky/Moscow Radio Symphony Orchestra/LP
 ## Lyric Suite
 * Gennady Rozhdestvensky/Moscow Radio Symphony Orchestra/LP
 
+# Holst
+## The Planets
+* Haitink/LPO/LP
+
 # Janacek
 ## Sinfonietta for Orchestra
 * Szell/Cleveland Orchestra/LP
+
+# Khachaturian
+## Violin Concerto
+* Leonid Kogan/Pierre Monteux/Boston Symphony/LP
 
 # Liszt
 ## Hungarian Fantasy
@@ -264,24 +396,43 @@
 
 # Mendelssohn
 ## Violin Concerto
-* Heifetz/Munch/Boston Symphony/LP
+* Heifetz/Munch/Boston Symphony/LP (x2)
+* Stern/Ormandy/Philadelphia Orchestra/LP
 ## Scherzo a capriccio
 * Horowitz/LP
 
 # Mozart
+## Marriage of Figaro
+* van Dam/Cotrubas/Tomowa-Sintow/von Stade/Krause/Karajan/VPO/LP
 ## Sonata No 18
 * Argerich/CD
 
 # Mussorgsky
-## Night on the bare mountain
+## Night on the bald mountain
 * Colin Davis/Concertgebouw/LP
-## Pictures at an exhibition
+* Georges Pretre/RPO/LP (sealed)
+## Pictures at an exhibition (orchestral-Ravel)
 * Colin Davis/Concertgebouw/LP
+* Mehta/LA Phil/LP
 * Rattle/BPO/CD
+## Pictures at an exhibition (piano)
+* Philippe Entremont/LP
 
 # Paganini
 ## 24 Caprices
 * Perlman/CD
+
+# Penderecki
+## Violin Concerto 1
+* Stern/Skrowaczewski/Minnesota Orchestra/LP
+
+# Poulenc
+## Mouvements perpetuels
+* I, II, III: Poulenc/LP
+## Nocturne in D Major
+* Poulenc/LP
+## Suite francaise
+* Poulenc/LP
 
 # Prokofiev
 ## Piano Concerto 2
@@ -293,10 +444,22 @@
 * Oistrakh/Lovro von Matacic/LSO/CD
 ## Violin Concerto 2
 * Heifetz/Munch/Boston Symphony/CD
-* Heifetz/Munch/Boston Symphony/LP
+* Heifetz/Munch/Boston Symphony/LP (x2)
 * Oistrakh/Alceo Galliera/Philharmonia Orchestra/CD
-## Romeo and Juliet
+## Alexander Nevsky
+* Rosalind Elias (mezzo-soprano)/Reiner/Chicago Symphony/LP
+## Chout (The Buffoon)
+* Gennady Rozhdestvensky/Moscow Radio Symphony Orchestra/LP
+## Lieutenant Kije Suite
+* Koussevitzky/Boston Symphony/LP
+## March and Scherzo from The Love of Three Oranges
+* Koussevitzky/Boston Symphony/LP
+## Le pas d'acier (The age of steel)
+* Gennady Rozhdestvensky/Moscow Radio Symphony Orchestra/LP
+## Romeo and Juliet (full)
 * Maazel/Cleveland Orchestra/CD
+## Romeo and Juliet Ballet Suite No 2
+* Koussevitzky/Boston Symphony/LP
 ## Symphony 1 "Classical"
 * Previn/LSO/LP
 ## Symphony 2
@@ -307,6 +470,7 @@
 * Zdenek Kosler/Czech Philharmonic Orchestra/LP
 ## Symphony 5
 * Bernstein/NY Phil/LP
+* Karajan/BPO/LP
 ## Symphony 7
 * Previn/LSO/LP
 ## Piano Sonata 3
@@ -345,10 +509,16 @@
 ## Rhapsody on a theme of Pagananini
 * Hough/Andrew Litton/Dallas Symphony/CD
 * Rachmaninoff/Stokowski/Philadelphia Orchestra/CD
-## Symphonic Dances
-* Andrew Davis/Royal Stockholm Philharmonic Orchestra/CD
 ## The Isle of the Dead
 * Andrew Davis/Royal Stockholm Philharmonic Orchestra/CD
+## Symphonic Dances
+* Andrew Davis/Royal Stockholm Philharmonic Orchestra/CD
+## Symphony 1
+* Previn/LSO/LP
+## Symphony 2
+* Previn/LSO/LP
+## Symphony 3
+* Previn/LSO/LP
 ## The Rock
 * Andrew Davis/Royal Stockholm Philharmonic Orchestra/CD
 ## 6 Moments musicaux (Op 16)
@@ -373,12 +543,18 @@
 * John Ogdon/Brenda Lucas/CD
 
 # Ravel
+## Bolero
+* Mehta/LA Phil/LP
+## Daphnis et Chloe
+* Munch/Boston Symphony/LP
 ## Gaspard de la nuit
 * Argerich/CD
 ## Sonatine
 * Argerich/CD
 
 # Rimsky-Korsakov
+## Capriccio Espagnol
+* Georges Pretre/RPO/LP (sealed)
 ## Scheherazade
 * Bernstein/NY Phil/John Corigliano (Violin)/LP
 
@@ -397,6 +573,22 @@
 * Jean-Philippe Collard/Previn/RPO/CD
 ## Fantaisie "Africa" Op 89
 * Jean-Philippe Collard/Previn/RPO/CD
+## Havanaise
+* Leonid Kogan/Pierre Monteux/Boston Symphony/LP
+
+# Satie
+## Avant-dernieres Pensees
+* Poulenc/LP
+## Croquis et agaceries d'un gros bon homme en bois
+* Poulenc/LP
+## Descriptions automatiques
+* Poulenc/LP
+## Gnossienne
+* Poulenc/LP
+## Gymnopedie No 1
+* Poulenc/LP
+## Sarabande
+* Poulenc/LP
 
 # Schubert
 ## Quintet in A Major "Trout"
@@ -428,7 +620,7 @@
 
 # Shostakovich
 ## Violin Concerto 2
-* Oistrakh/Kondrashin/Moscow Philharmonic Orchestra(?)/LP
+* Oistrakh/Kondrashin/Moscow Philharmonic Symphony Orchestra/LP (x2)
 ## Cello Concerto 1
 * Rostropovich/Ormandy/Philadelphia Orchestra/LP
 * Michail Chomitzer/Gennady Rozhdestvensky/USSR Radio Symphony Orchestra/LP
@@ -436,8 +628,30 @@
 * Rostropovich/Ozawa/Boston Symphony/LP
 ## Symphony 1
 * Ormandy/Philadelphia Orchestra/LP
+## Symphony 2 "To October"
+* Haitink/LPO/LP
+## Symphony 3 "The First of May"
+* Haitink/LPO/LP
+## Symphony 4
+* Previn/Chicago Symphony/LP
+## Symphony 5
+* Previn/LSO/LP
+## Symphony 6
+* Bernstein/VPO/LP
+* Kondrashin/Moscow Philharmonic Symphony Orchestra/LP
+## Symphony 7 "Leningrad"
+* Haitink/LPO/LP
+## Symphony 8
+* Haitink/Concertgebouw/LP
+* Previn/LSO/LP
+## Symphony 9
+* Bernstein/VPO/LP
 ## Symphony 10
 * Previn/LSO/LP
+## Violin Sonata
+* Oistrakh/Richter/LP
+## Viola Sonata
+* Fyodor Druzhinin/Michael Muntyan/LP
 
 # Smetana
 ## Bartered Bride
@@ -450,25 +664,54 @@
 ## Violin Concerto
 * Heifetz/Beecham/LPO/CD
 * Heifetz/Walter Hendl/Chicago Symphony/CD
+* Oistrakh/Ormandy/Philadelphia Orchestra/LP
 * Stern/Ormandy/Philadelphia Orchestra/LP
+## Finlandia
+* Ormandy/Philadelphia Orchestra/LP
 ## Karelia Suite
 * Ormandy/Philadelphia Orchestra/LP
+* Alla Marcia: Ormandy/Philadelphia Orchestra/LP
+## Symphony 2
+* Mov 3, 4: Bernstein/NY Phil/LP
+## The Swan of Tuonela
+* Louis Rosenblatt (English Horn)/Ormandy/Philadelphia Orchestra/LP (x2)
+## Valse Triste
+* Bernstein/NY Phil/LP
 
 # Stravinsky
 ## Firebird
 * Boulez/Chicago Symphony/CD
 ## Rite of Spring
 * Boulez/Cleveland Orchestra/CD
+* Boulez/Cleveland Orchestra/LP
+* Stravinsky/Columbia Symphony Orchestra/LP
+
+# Strauss, Richard
+## Death and Transfiguration
+* Reiner/VPO/LP
+## Till Eulenspiegel's Merry Pranks
+* Reiner/VPO/LP
 
 # Tchaikovsky
 ## Piano Concerto 1
 * Argerich/Dutoit/RPO/CD
 * Argerich/Dutoit/RPO/LP
+* Gilels/Reiner/Chicago Symphony/LP
 * Horowitz/Barbirolli/NY Phil/CD (sealed)
 ## Violin Concerto
 * Heifetz/Barbirolli/LPO/CD
+* Stern/Ormandy/Philadelphia Orchestra/LP
+## Marche Slave
+* Mehta/LA Phil/LP
 ## Symphony 4
+* Abbado/VPO/LP
+* Haitink/Concertgebouw/LP
+* Karl Bohm/LSO/LP
 * Karajan/BPO/LP
+
+# Verdi
+## Rigoletto
+* Scotto/Cossotto/Bergonzi/Fischer-Dieskau/Vinco/Kubelik/La Scala Theatre Orchestra/LP
 
 # Viotti
 ## Violin Concerto 22
@@ -477,6 +720,26 @@
 # Vivaldi
 ## Four Seasons
 * Stern/Zukerman/Mintz/Perlman/Mehta (conductor)/Israel Philharmonic Orchestra/CD
+
+# Wagner
+## Prelude to Lohengrin
+* Ormandy/Philadelphia Orchestra/LP
+## Prelude to Die Meistersinger
+* Ormandy/Philadelphia Orchestra/LP
+## Prelude to Act III, Dance of the Apprentices from Die Meistersinger
+* Ormandy/Philadelphia Orchestra/LP
+## Fest March from Tannhauser
+* Ormandy/Philadelphia Orchestra/LP
+## Overture to Tannhauser
+* Ormandy/Philadelphia Orchestra/LP
+## Prelude and Love-Death from Tristan und Isolde
+* Ormandy/Philadelphia Orchestra/LP
+## Magic fire music from Die Walkure
+* Ormandy/Philadelphia Orchestra/LP
+## Ride of the Valkyries from Die Walkure
+* Ormandy/Philadelphia Orchestra/LP
+## Siegfried Idyll
+* Ormandy/Philadelphia Orchestra/LP
 
 # Wieniawski
 ## Violin Concerto 1
