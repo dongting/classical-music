@@ -72,6 +72,8 @@
 * Ormandy/Philadelphia Orchestra/LP
 
 # Beethoven
+## Violin Concerto
+* Del Mar/Barenreiter/study score
 ## Piano Concerto 1
 * Gilels/Masur/State Symphony Orchestra of the USSR/CD
 * Lupu/Mehta/Israel Philharmonic/LP
@@ -109,10 +111,12 @@
 * Bernstein/VPO/CD
 * Karajan/BPO/CD
 * Rattle/VPO/CD
+* Del Mar/Barenreiter/study score
 ## Symphony 6 "Pastoral"
 * Bernstein/VPO/CD
 * Karajan/BPO/CD
 * Rattle/VPO/CD
+* Del Mar/Barenreiter/study score
 ## Symphony 7
 * Bernstein/Boston Symphony/CD
 * Bernstein/VPO/CD
@@ -120,16 +124,20 @@
 * Karajan/BPO/LP
 * Carlos Kleiber/VPO/LP (sealed)
 * Rattle/VPO/CD
+* Del Mar/Barenreiter/study score
 ## Symphony 8
 * Bernstein/VPO/CD
 * Karajan/BPO/CD
 * Rattle/VPO/CD
+* Del Mar/Barenreiter/study score
 ## Symphony 9
 * Abbado/VPO/Benackova, Lipovsek, Winbergh, Prey/CD
 * Bernstein/Various/Anderson, Walker, Konig, Rootering/CD (Berlin 1989 concert)
 * Bernstein/VPO/Jones, Schwarz, Kollo, Moll/CD
 * Karajan/BPO/Janowitz, Rossel-Majdan, Kmentt, Berry/CD
 * Rattle/VPO/Bonney, Remmert, Streit, Hampson/CD
+* Del Mar/Barenreiter/study score
+* Peter Hauschild/Breitkopf & Hartel/study score
 ## Coriolan Overture
 * Szell/Cleveland Orchestra/LP
 ## Egmont Overture
@@ -219,6 +227,7 @@
 # Bizet
 ## Carmen (opera)
 * Baltsa, Carreras, van Dam/Karajan/BPO/CD
+* Schirmer/piano-vocal score
 ## Carmen Suite 1
 * Karajan/BPO/LP
 ## L'Arlesienne Suite 1
@@ -299,6 +308,7 @@
 # Dvorak
 ## Cello Concerto
 * Du Pre/Barenboim/Chicago Symphony/CD
+* Del Mar/Barenreiter/study score
 ## Piano Concerto
 * Richter/Carlos Kleiber/Bavarian State Orchestra/LP
 ## Carnival Overture
@@ -316,20 +326,24 @@
 * Kubelik/BPO/LP
 ## Symphony 7
 * Bernstein/NY Phil/LP
+* Del Mar/Barenreiter/study score
 ## Symphony 8
 * Barbirolli/Halle Orchestra/LP
 * Kubelik/BPO/CD
 * Szell/Cleveland Orchestra/LP
+* Frantisek Bartos/Barenreiter/study score
 ## Symphony 9
 * Bernstein/NY Phil/CD
 * Karajan/BPO/LP
 * Kubelik/BPO/CD
 * Kubelik/BPO/LP
+* Frantisek Bartos/Barenreiter/study score
 
 # Elgar
 ## Cello Concerto
 * Du Pre/Barbirolli/LSO/LP
 * Du Pre/Barbirolli/LSO/CD
+* Del Mar/Barenreiter/study score
 ## Violin Concerto
 * Menuhin/Adrian Boult/New Philharmonia Orchestra/LP
 * Zukerman/Barenboim/LPO
@@ -393,11 +407,13 @@
 * Fischer-Dieskau (Baritone)/Bohm/BPO/CD
 ## Symphony 1
 * Bernstein/NY Phil/LP (sealed)
+* Reinhold Kubik/Universal Edition/study score
 
 # Mendelssohn
 ## Violin Concerto
 * Heifetz/Munch/Boston Symphony/LP (x2)
 * Stern/Ormandy/Philadelphia Orchestra/LP
+* R. Larry Todd, Clive Brown/Barenreiter/study score
 ## Scherzo a capriccio
 * Horowitz/LP
 
@@ -415,6 +431,7 @@
 * Colin Davis/Concertgebouw/LP
 * Mehta/LA Phil/LP
 * Rattle/BPO/CD
+* Arbie Orenstein/Eulenburg/study score
 ## Pictures at an exhibition (piano)
 * Philippe Entremont/LP
 
@@ -593,6 +610,8 @@
 # Schubert
 ## Quintet in A Major "Trout"
 * Borodin Quartet, Georg Hortnagel (double bass), Richter (piano)/LP
+## Quintet in C Major
+* Martin Chusid/Barenreiter/study score
 ## Sonata in B-Flat (Op Posth)
 * Rubinstein/LP
 
@@ -701,6 +720,7 @@
 ## Violin Concerto
 * Heifetz/Barbirolli/LPO/CD
 * Stern/Ormandy/Philadelphia Orchestra/LP
+* Ernst Herttrich/Breitkopf & Hartel/study score
 ## Marche Slave
 * Mehta/LA Phil/LP
 ## Symphony 4
