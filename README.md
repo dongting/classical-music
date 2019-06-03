@@ -260,6 +260,8 @@
 * Kubelik/VPO/LP
 ## Symphony 2
 * Karajan/BPO/LP
+## Symphony 3
+* Szell/Concertgebouw/LP
 
 # Britten
 ## 4 Sea Interludes
