@@ -8,6 +8,7 @@
 - [Borodin](#borodin)
 - [Brahms](#brahms)
 - [Britten](#britten)
+- [Bruch](#bruch)
 - [Chopin](#chopin)
 - [Copland](#copland)
 - [Debussy](#debussy)
@@ -19,6 +20,7 @@
 - [Grieg](#grieg)
 - [Holst](#holst)
 - [Janacek](#janacek)
+- [Kabalevsky](#kabalevsky)
 - [Khachaturian](#khachaturian)
 - [Liszt](#liszt)
 - [Mahler](#mahler)
@@ -76,10 +78,12 @@
 * Del Mar/Barenreiter/study score
 ## Piano Concerto 1
 * Gilels/Masur/State Symphony Orchestra of the USSR/CD
+* Gilels/Szell/Cleveland Orchestra/LP
 * Lupu/Mehta/Israel Philharmonic/LP
 * Del Mar/Barenreiter/study score
 ## Piano Concerto 2
 * Gilels/Masur/State Symphony Orchestra of the USSR/CD
+* Gilels/Szell/Cleveland Orchestra/LP
 * Lupu/Mehta/Israel Philharmonic/LP
 ## Piano Concerto 3
 * Gilels/Alexander Gauk/USSR State Orchestra/LP
@@ -110,6 +114,7 @@
 * Bernstein/VPO/CD
 * Karajan/BPO/CD
 * Rattle/VPO/CD
+* Szell/Cleveland Orchestra/LP
 ## Symphony 5
 * Bernstein/VPO/CD
 * Karajan/BPO/CD
@@ -138,6 +143,7 @@
 * Bernstein/Various/Anderson, Walker, Konig, Rootering/CD (Berlin 1989 concert)
 * Bernstein/VPO/Jones, Schwarz, Kollo, Moll/CD
 * Karajan/BPO/Janowitz, Rossel-Majdan, Kmentt, Berry/CD
+* Ozawa/New Philharmonia Orchestra/Napier, Reynolds, Brilioth, Ridderbusch/LP
 * Rattle/VPO/Bonney, Remmert, Streit, Hampson/CD
 * Del Mar/Barenreiter/study score
 * Peter Hauschild/Breitkopf & Hartel/study score
@@ -148,6 +154,8 @@
 ## Konig Stefan Overture
 * Szell/Cleveland Orchestra/LP
 ## Leonore Overture No 2
+* Szell/Cleveland Orchestra/LP
+## Leonore Overture No 3
 * Szell/Cleveland Orchestra/LP
 ## 6 Bagatelles
 * Gould/CD
@@ -194,6 +202,10 @@
 * Gilels/CD
 ## Piano Sonata 29 "Hammerklavier" (Op 106)
 * Gilels/CD
+## Violin Sonata 8 (Op 30, No 3)
+* Zukerman/Barenboim/LP
+## Violin Sonata 9 "Kreutzer" (Op 47)
+* Zukerman/Barenboim/LP
 ## String Quartet "Rasumovsky" 7 Op 59 No 1
 * Juilliard String Quartet/LP
 ## String Quartet "Rasumovsky" 8 Op 59 No 2
@@ -222,6 +234,8 @@
 * Beecham/RPO/William Primrose (Viola)/LP
 
 # Bernstein
+## Symphony 3 "Kaddish"
+* Bernstein/Israel Philharmonic Orchestra/LP
 ## Symphonic Dances from West Side Story
 * Ozawa/SF Symphony/LP
 ## West Side Story (full)
@@ -253,6 +267,7 @@
 
 # Brahms
 ## Piano Concerto 2
+* Pollini/Abbado/VPO/LP
 * Richter/Erich Leinsdorf/Chicago Symphony/LP
 * Rubinstein/Ormandy/Philadelphia Orchestra/LP (sealed)
 ## Violin Concerto
@@ -269,6 +284,10 @@
 # Britten
 ## 4 Sea Interludes
 * Bernstein/Boston Symphony/CD
+
+# Bruch
+## Violin Concerto 1
+* Perlman/Previn/LSO/LP
 
 # Chopin
 ## 10 Mazurkas
@@ -356,14 +375,22 @@
 * Zukerman/Barenboim/LPO
 ## Enigma Variations
 * Barbirolli/Philharmonia Orchestra/LP
+* Bernstein/BBC Symphony Orchestra/LP
 ## Overture Cockaigne
 * Barbirolli/Philharmonia Orchestra/LP
+## Pomp and Circumstance March No 1
+* Bernstein/BBC Symphony Orchestra/LP
+## Pomp and Circumstance March No 2
+* Bernstein/BBC Symphony Orchestra/LP
 ## Sea Pictures
 * Janet Baker (mezzo-soprano)/Barbirolli/LSO/LP
+## The Crown of India March
+* Bernstein/BBC Symphony Orchestra/LP
 
 # Franck
 ## Symphony in D minor
 * Munch/Boston Symphony/LP
+* Bernstein/Orchestre National de France/LP
 
 # Gershwin
 ## An American in Paris
@@ -391,6 +418,10 @@
 ## Sinfonietta for Orchestra
 * Szell/Cleveland Orchestra/LP
 
+# Kabalevsky
+## Cello Concerto 1
+* Ma/Ormandy/Philadelphia Ormandy/LP
+
 # Khachaturian
 ## Violin Concerto
 * Leonid Kogan/Pierre Monteux/Boston Symphony/LP
@@ -414,15 +445,21 @@
 * Fischer-Dieskau (Baritone)/Bohm/BPO/CD
 ## Symphony 1
 * Bernstein/NY Phil/LP (sealed)
+* Kubelik/Bavarian Radio Symphony Orchestra/LP
 * Reinhold Kubik/Universal Edition/study score
+## Symphony 4
+* Kubelik/Bavarian Radio Symphony Orchestra/Morison/LP
 ## Symphony 5
 * Erwin Ratz and Karl Heinz Fussl/Eulenburg/study score
 
 # Mendelssohn
 ## Violin Concerto
 * Heifetz/Munch/Boston Symphony/LP (x2)
+* Perlman/Previn/LSO/LP
 * Stern/Ormandy/Philadelphia Orchestra/LP
 * R. Larry Todd, Clive Brown/Barenreiter/study score
+## A Midsummer Night's Dream
+* Haitink/Concertgebouw/LP
 ## Scherzo a capriccio
 * Horowitz/LP
 
@@ -466,9 +503,9 @@
 ## Piano Concerto 3
 * Argerich/Abbado/BPO/CD
 * Cliburn/Walter Hendl/Chicago Symphony/CD
-## Violin Concerto 1
+## Violin Concerto 1 in D major
 * Oistrakh/Lovro von Matacic/LSO/CD
-## Violin Concerto 2
+## Violin Concerto 2 in G minor
 * Heifetz/Munch/Boston Symphony/CD
 * Heifetz/Munch/Boston Symphony/LP (x2)
 * Oistrakh/Alceo Galliera/Philharmonia Orchestra/CD
@@ -507,8 +544,11 @@
 * Lazar Berman/LP
 ## Toccata Op 11
 * Argerich/CD
+## Violin Sonata No 1 in F minor Op 80
+* Perlman/Ashkenazy/LP
 ## Violin Sonata No 2 in D Op 94
 * Oistrakh/Vladimir Yampolsky (piano)/CD
+* Perlman/Ashkenazy/LP
 
 # Rachmaninoff
 ## Piano Concerto 1
@@ -571,6 +611,7 @@
 
 # Ravel
 ## Bolero
+* Karajan/BPO/LP (sealed)
 * Mehta/LA Phil/LP
 ## Daphnis et Chloe
 * Munch/Boston Symphony/LP
@@ -584,6 +625,7 @@
 * Georges Pretre/RPO/LP (sealed)
 ## Scheherazade
 * Bernstein/NY Phil/John Corigliano (Violin)/LP
+* Ormandy/Philaddelphia Orchestra/Norman Carol (Violin)/LP
 * Eulenburg/study score
 
 # Saint-Saens
@@ -603,6 +645,8 @@
 * Jean-Philippe Collard/Previn/RPO/CD
 ## Havanaise
 * Leonid Kogan/Pierre Monteux/Boston Symphony/LP
+## Le Rouet d'Omphale
+* Bernstein/Orchestre National de France/LP
 
 # Satie
 ## Avant-dernieres Pensees
@@ -653,6 +697,7 @@
 ## Violin Concerto 2
 * Oistrakh/Kondrashin/Moscow Philharmonic Symphony Orchestra/LP (x2)
 ## Cello Concerto 1
+* Ma/Ormandy/Philadelphia Ormandy/LP
 * Rostropovich/Ormandy/Philadelphia Orchestra/LP
 * Michail Chomitzer/Gennady Rozhdestvensky/USSR Radio Symphony Orchestra/LP
 ## Cello Concerto 2
@@ -727,11 +772,13 @@
 ## Piano Concerto 1
 * Argerich/Dutoit/RPO/CD
 * Argerich/Dutoit/RPO/LP
+* Argerich/Kondrashin/Bavarian Radio Symphony Orchestra/LP
 * Gilels/Reiner/Chicago Symphony/LP
 * Horowitz/Barbirolli/NY Phil/CD (sealed)
 * Breitkopf & Hartel/study score
 ## Violin Concerto
 * Heifetz/Barbirolli/LPO/CD
+* Heifetz/Reiner/Chicago Symphony/LP
 * Stern/Ormandy/Philadelphia Orchestra/LP
 * Ernst Herttrich/Breitkopf & Hartel/study score
 ## Marche Slave
