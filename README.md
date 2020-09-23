@@ -77,6 +77,7 @@
 ## Piano Concerto 1
 * Gilels/Masur/State Symphony Orchestra of the USSR/CD
 * Lupu/Mehta/Israel Philharmonic/LP
+* Del Mar/Barenreiter/study score
 ## Piano Concerto 2
 * Gilels/Masur/State Symphony Orchestra of the USSR/CD
 * Lupu/Mehta/Israel Philharmonic/LP
@@ -84,12 +85,14 @@
 * Gilels/Alexander Gauk/USSR State Orchestra/LP
 * Gilels/Masur/State Symphony Orchestra of the USSR/CD
 * Gilels/Szell/Cleveland Orchestra/LP
+* Del Mar/Barenreiter/study score
 ## Piano Concerto 4
 * Gilels/Masur/State Symphony Orchestra of the USSR/CD
 ## Piano Concerto 5 "Emperor"
 * Cliburn/Reiner/Chicago Symphony/LP
 * Gilels/Masur/State Symphony Orchestra of the USSR/CD
 * Horowitz/Reiner/RCA Symphony Orchestra/LP
+* Del Mar/Barenreiter/study score
 ## Symphony 1
 * Bernstein/VPO/CD
 * Karajan/BPO/CD
@@ -340,6 +343,8 @@
 * Kubelik/BPO/CD
 * Kubelik/BPO/LP
 * Frantisek Bartos/Barenreiter/study score
+## String Quartet Op 96 "American"
+* G. Henle/study score
 
 # Elgar
 ## Cello Concerto
@@ -410,6 +415,8 @@
 ## Symphony 1
 * Bernstein/NY Phil/LP (sealed)
 * Reinhold Kubik/Universal Edition/study score
+## Symphony 5
+* Erwin Ratz and Karl Heinz Fussl/Eulenburg/study score
 
 # Mendelssohn
 ## Violin Concerto
@@ -513,6 +520,7 @@
 * Hough/Andrew Litton/Dallas Symphony/CD
 * Janis/Dorati/Minneapolis Symphony Orchestra/CD (missing CD)
 * Kissin/Gergiev/LSO/CD
+* Boosey & Hawkes/study score
 ## Piano Concerto 3
 * Ashkenazy/Previn/LSO/CD (signed)
 * Cliburn/Kondrashin/Symphony of the Air/CD
@@ -576,6 +584,7 @@
 * Georges Pretre/RPO/LP (sealed)
 ## Scheherazade
 * Bernstein/NY Phil/John Corigliano (Violin)/LP
+* Eulenburg/study score
 
 # Saint-Saens
 ## Piano Concerto 1
@@ -612,6 +621,7 @@
 # Schubert
 ## Quintet in A Major "Trout"
 * Borodin Quartet, Georg Hortnagel (double bass), Richter (piano)/LP
+* G. Henle/study score
 ## Quintet in C Major
 * Martin Chusid/Barenreiter/study score
 ## Sonata in B-Flat (Op Posth)
@@ -719,6 +729,7 @@
 * Argerich/Dutoit/RPO/LP
 * Gilels/Reiner/Chicago Symphony/LP
 * Horowitz/Barbirolli/NY Phil/CD (sealed)
+* Breitkopf & Hartel/study score
 ## Violin Concerto
 * Heifetz/Barbirolli/LPO/CD
 * Stern/Ormandy/Philadelphia Orchestra/LP
@@ -730,6 +741,11 @@
 * Haitink/Concertgebouw/LP
 * Karl Bohm/LSO/LP
 * Karajan/BPO/LP
+* Eulenburg/study score
+## Symphony 5
+* Christoph Flamm/Breitkopf & Hartel/study score
+## Symphony 6
+* Breitkopf & Hartel/study score
 
 # Verdi
 ## Rigoletto
