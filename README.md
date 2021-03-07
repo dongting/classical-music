@@ -23,6 +23,7 @@
 - [Kabalevsky](#kabalevsky)
 - [Khachaturian](#khachaturian)
 - [Liszt](#liszt)
+- [Lutoslawski](#lutoslawski)
 - [Mahler](#mahler)
 - [Mendelssohn](#mendelssohn)
 - [Mozart](#mozart)
@@ -43,6 +44,7 @@
 - [Smetana](#smetana)
 - [Sibelius](#sibelius)
 - [Stravinsky](#stravinsky)
+- [Strauss, Johann II](#strauss--johann-ii)
 - [Strauss, Richard](#strauss--richard)
 - [Tchaikovsky](#tchaikovsky)
 - [Verdi](#verdi)
@@ -60,6 +62,8 @@
 * Ewa Poblocka/LP
 
 # Bartok
+## Piano Concerto 3
+* Argerich/Dutoit/Montreal Symphony/CD
 ## Violin Concerto 1
 * Menuhin/Dorati/New Philharmonia Orchestra/LP
 * Stern/Ormandy/Philadelphia Orchestra/LP
@@ -99,50 +103,60 @@
 * Del Mar/Barenreiter/study score
 ## Symphony 1
 * Bernstein/VPO/CD
-* Karajan/BPO/CD
+* Karajan/BPO/CD (1963)
+* Karajan/BPO/CD (1984-86)
 * Rattle/VPO/CD
 ## Symphony 2
 * Bernstein/VPO/CD
-* Karajan/BPO/CD
+* Karajan/BPO/CD (1963)
+* Karajan/BPO/CD (1984-86)
 * Rattle/VPO/CD
 ## Symphony 3 "Eroica"
 * Bernstein/VPO/CD
-* Karajan/BPO/CD
+* Karajan/BPO/CD (1963)
+* Karajan/BPO/CD (1984-86)
 * Karajan/BPO/LP
 * Rattle/VPO/CD
 ## Symphony 4
 * Bernstein/VPO/CD
-* Karajan/BPO/CD
+* Karajan/BPO/CD (1963)
+* Karajan/BPO/CD (1984-86)
 * Rattle/VPO/CD
 * Szell/Cleveland Orchestra/LP
 ## Symphony 5
 * Bernstein/VPO/CD
-* Karajan/BPO/CD
+* Karajan/BPO/CD (1963)
+* Karajan/BPO/CD (1984-86)
 * Rattle/VPO/CD
 * Del Mar/Barenreiter/study score
 ## Symphony 6 "Pastoral"
 * Bernstein/VPO/CD
-* Karajan/BPO/CD
+* Karajan/BPO/CD (1963)
+* Karajan/BPO/CD (1984-86)
 * Rattle/VPO/CD
 * Del Mar/Barenreiter/study score
 ## Symphony 7
 * Bernstein/Boston Symphony/CD
 * Bernstein/VPO/CD
-* Karajan/BPO/CD
+* Karajan/BPO/CD (1963)
+* Karajan/BPO/CD (1984-86)
 * Karajan/BPO/LP
 * Carlos Kleiber/VPO/LP (sealed)
 * Rattle/VPO/CD
 * Del Mar/Barenreiter/study score
 ## Symphony 8
 * Bernstein/VPO/CD
-* Karajan/BPO/CD
+* Karajan/BPO/CD (1963)
+* Karajan/BPO/CD (1984-86)
 * Rattle/VPO/CD
 * Del Mar/Barenreiter/study score
 ## Symphony 9
+* Abbado/BPO/Mattila, Urmana, Moser, Quasthoff/CD
 * Abbado/VPO/Benackova, Lipovsek, Winbergh, Prey/CD
 * Bernstein/Various/Anderson, Walker, Konig, Rootering/CD (Berlin 1989 concert)
 * Bernstein/VPO/Jones, Schwarz, Kollo, Moll/CD
-* Karajan/BPO/Janowitz, Rossel-Majdan, Kmentt, Berry/CD
+* Karajan/BPO/Janowitz, Rossel-Majdan, Kmentt, Berry/CD (1963)
+* Karajan/BPO/Perry, Baltsa, Cole, van Dam/CD (1984)
 * Ozawa/New Philharmonia Orchestra/Napier, Reynolds, Brilioth, Ridderbusch/LP
 * Rattle/VPO/Bonney, Remmert, Streit, Hampson/CD
 * Del Mar/Barenreiter/study score
@@ -244,12 +258,14 @@
 # Bizet
 ## Carmen (opera)
 * Baltsa, Carreras, van Dam/Karajan/BPO/CD
-* Schirmer/piano-vocal score
 ## Carmen Suite 1
+* Karajan/BPO/CD
 * Karajan/BPO/LP
 ## L'Arlesienne Suite 1
+* Karajan/BPO/CD
 * Karajan/BPO/LP
 ## L'Arlesienne Suite 2
+* Karajan/BPO/CD
 * Karajan/BPO/LP
 
 # Borodin
@@ -267,11 +283,15 @@
 
 # Brahms
 ## Piano Concerto 2
+* Cliburn/Kondrashin/Moscow Philharmonic Orchestra/CD
 * Pollini/Abbado/VPO/LP
 * Richter/Erich Leinsdorf/Chicago Symphony/LP
 * Rubinstein/Ormandy/Philadelphia Orchestra/LP (sealed)
 ## Violin Concerto
 * Oistrakh/Szell/Cleveland Orchestra/LP
+* Shaham/Abbado/BPO/CD
+## Concerto for Violin, Cello, and Orchestra
+* Gil Shaham/Jian Wang/Abbado/BPO/CD
 ## Hungarian Dances
 * No 1, 3, 5, 6, 17, 18, 19, 20: Karajan/BPO/LP
 ## Symphony 1
@@ -331,12 +351,17 @@
 
 # Dvorak
 ## Cello Concerto
+* Yo-Yo Ma/Maazel/BPO/CD
 * Du Pre/Barenboim/Chicago Symphony/CD
 * Del Mar/Barenreiter/study score
+## Rondo for Cello & Orchestra
+* Yo-Yo Ma/Maazel/BPO/CD
 ## Piano Concerto
 * Richter/Carlos Kleiber/Bavarian State Orchestra/LP
 ## Carnival Overture
 * Bernstein/NY Phil/CD
+## Klid/Silent Woods
+* Yo-Yo Ma/Maazel/BPO/CD
 ## Scherzo Capriccioso
 * Barbirolli/Halle Orchestra/LP
 ## Slavonic Dances Op 46
@@ -367,24 +392,34 @@
 
 # Elgar
 ## Cello Concerto
-* Du Pre/Barbirolli/LSO/LP
 * Du Pre/Barbirolli/LSO/CD
+* Du Pre/Barbirolli/LSO/LP
+* Du Pre/Barenboim/Philadelphia Orchestra/CD
 * Del Mar/Barenreiter/study score
 ## Violin Concerto
 * Menuhin/Adrian Boult/New Philharmonia Orchestra/LP
-* Zukerman/Barenboim/LPO
+* Zukerman/Barenboim/LPO/LP
 ## Enigma Variations
 * Barbirolli/Philharmonia Orchestra/LP
+* Barenboim/LPO/CD
+* Bernstein/BBC Symphony Orchestra/CD
 * Bernstein/BBC Symphony Orchestra/LP
 ## Overture Cockaigne
 * Barbirolli/Philharmonia Orchestra/LP
 ## Pomp and Circumstance March No 1
+* Barenboim/LPO/CD
+* Bernstein/BBC Symphony Orchestra/CD
 * Bernstein/BBC Symphony Orchestra/LP
 ## Pomp and Circumstance March No 2
+* Bernstein/BBC Symphony Orchestra/CD
 * Bernstein/BBC Symphony Orchestra/LP
+## Pomp and Circumstance March No 4
+* Barenboim/LPO/CD
 ## Sea Pictures
+* Janet Baker (mezzo-soprano)/Barbirolli/LSO/CD
 * Janet Baker (mezzo-soprano)/Barbirolli/LSO/LP
 ## The Crown of India March
+* Bernstein/BBC Symphony Orchestra/CD
 * Bernstein/BBC Symphony Orchestra/LP
 
 # Franck
@@ -393,8 +428,13 @@
 * Bernstein/Orchestre National de France/LP
 
 # Gershwin
+## Piano Concerto in F
+* Previn/Previn/LSO/CD
 ## An American in Paris
 * Ozawa/SF Symphony/LP
+* Previn/LSO/CD
+## Rhapsody in Blue
+* Previn/LSO/CD
 
 # Glazunov
 ## Concerto in A minor Op 82
@@ -405,7 +445,10 @@
 # Grieg
 ## Piano Concerto
 * Philippe Entremont/Ormandy/Philadelphia Orchestra/LP
+## Aus Holbergs Zeit
+* Karajan/BPO/CD
 ## Peer Gynt Suites 1 & 2
+* Karajan/BPO/CD
 * Gennady Rozhdestvensky/Moscow Radio Symphony Orchestra/LP
 ## Lyric Suite
 * Gennady Rozhdestvensky/Moscow Radio Symphony Orchestra/LP
@@ -436,20 +479,28 @@
 ## Totentanz
 * Georges Cziffra/Gyorgy Cziffra Jr/Orchestre de Paris/CD
 
+# Lutoslawski
+## Variations on a Theme by Paganini
+* Martha Argerich/Nelson Freire/CD
+
 # Mahler
 ## Kindertotenlieder (Songs on the Death of Children)
 * Fischer-Dieskau (Baritone)/Bohm/BPO/CD
 ## Lieder eines fahrenden Gesellen (Songs of a Wayfarer)
 * Fischer-Dieskau (Baritone)/Kubelik/Bavarian Radio Symphony Orchestra/CD
-## Rückert-Lieder (Songs after Rückert)
+## 4 Rückert-Lieder (Songs after Rückert)
 * Fischer-Dieskau (Baritone)/Bohm/BPO/CD
 ## Symphony 1
+* Abbado/BPO/CD
+* Bernstein/Concertgebouw/CD
 * Bernstein/NY Phil/LP (sealed)
 * Kubelik/Bavarian Radio Symphony Orchestra/LP
 * Reinhold Kubik/Universal Edition/study score
 ## Symphony 4
 * Kubelik/Bavarian Radio Symphony Orchestra/Morison/LP
 ## Symphony 5
+* Abbado/BPO/CD
+* Bernstein/VPO/CD
 * Erwin Ratz and Karl Heinz Fussl/Eulenburg/study score
 
 # Mendelssohn
@@ -472,14 +523,18 @@
 # Mussorgsky
 ## Night on the bald mountain
 * Colin Davis/Concertgebouw/LP
+* Dutoit/Montreal Symphony/CD
 * Georges Pretre/RPO/LP (sealed)
 ## Pictures at an exhibition (orchestral-Ravel)
 * Colin Davis/Concertgebouw/LP
+* Dutoit/Montreal Symphony/CD
 * Mehta/LA Phil/LP
 * Rattle/BPO/CD
 * Arbie Orenstein/Eulenburg/study score
 ## Pictures at an exhibition (piano)
 * Philippe Entremont/LP
+## Khovanshchina - Prelude
+* Dutoit/Montreal Symphony/CD
 
 # Paganini
 ## 24 Caprices
@@ -498,17 +553,23 @@
 * Poulenc/LP
 
 # Prokofiev
+## Piano Concerto 1
+* Argerich/Dutoit/Montreal Symphony/CD
+* Kissin/Abbado/BPO/CD
 ## Piano Concerto 2
 * Yuja Wang/Dudamel/Simon Bolivar Symphony/CD (signed)
 ## Piano Concerto 3
 * Argerich/Abbado/BPO/CD
+* Argerich/Dutoit/Montreal Symphony/CD
 * Cliburn/Walter Hendl/Chicago Symphony/CD
+* Kissin/Abbado/BPO/CD
 ## Violin Concerto 1 in D major
 * Oistrakh/Lovro von Matacic/LSO/CD
 ## Violin Concerto 2 in G minor
 * Heifetz/Munch/Boston Symphony/CD
 * Heifetz/Munch/Boston Symphony/LP (x2)
 * Oistrakh/Alceo Galliera/Philharmonia Orchestra/CD
+* Vengerov/Rostropovich/LSO/CD
 ## Alexander Nevsky
 * Rosalind Elias (mezzo-soprano)/Reiner/Chicago Symphony/LP
 ## Chout (The Buffoon)
@@ -520,6 +581,7 @@
 ## Le pas d'acier (The age of steel)
 * Gennady Rozhdestvensky/Moscow Radio Symphony Orchestra/LP
 ## Romeo and Juliet (full)
+* Gergiev/Kirov Orchestra Leningrad/CD
 * Maazel/Cleveland Orchestra/CD
 ## Romeo and Juliet Ballet Suite No 2
 * Koussevitzky/Boston Symphony/LP
@@ -564,7 +626,7 @@
 ## Piano Concerto 3
 * Ashkenazy/Previn/LSO/CD (signed)
 * Cliburn/Kondrashin/Symphony of the Air/CD
-* Horowitz/Barbirolli/NY Phil/CD (sealed)
+* Horowitz/Barbirolli/NY Phil/CD
 * Hough/Andrew Litton/Dallas Symphony/CD
 * Janis/Dorati/LSO/CD (missing CD)
 * Kissin/Ozawa/Boston Symphony/CD
@@ -574,6 +636,7 @@
 * Hough/Andrew Litton/Dallas Symphony/CD
 * Rachmaninoff/Ormandy/Philadelphia Orchestra/CD
 ## Rhapsody on a theme of Pagananini
+* Cliburn/Kondrashin/Moscow Philharmonic Orchestra/CD
 * Hough/Andrew Litton/Dallas Symphony/CD
 * Rachmaninoff/Stokowski/Philadelphia Orchestra/CD
 ## The Isle of the Dead
@@ -607,6 +670,7 @@
 ## Suite No 1 for two pianos (Fantasie)
 * John Ogdon/Brenda Lucas/CD
 ## Suite No 2 for two pianos
+* Martha Argerich/Nelson Freire/CD
 * John Ogdon/Brenda Lucas/CD
 
 # Ravel
@@ -617,6 +681,8 @@
 * Munch/Boston Symphony/LP
 ## Gaspard de la nuit
 * Argerich/CD
+## La Valse (transcription for two pianos)
+* Martha Argerich/Nelson Freire/CD
 ## Sonatine
 * Argerich/CD
 
@@ -624,9 +690,13 @@
 ## Capriccio Espagnol
 * Georges Pretre/RPO/LP (sealed)
 ## Scheherazade
+* Bernstein/NY Phil/John Corigliano (Violin)/CD
 * Bernstein/NY Phil/John Corigliano (Violin)/LP
+* Karajan/BPO/CD
 * Ormandy/Philaddelphia Orchestra/Norman Carol (Violin)/LP
 * Eulenburg/study score
+## Russian Easter Festival Overture
+* Dutoit/Montreal Symphony/CD
 
 # Saint-Saens
 ## Piano Concerto 1
@@ -665,9 +735,14 @@
 # Schubert
 ## Quintet in A Major "Trout"
 * Borodin Quartet, Georg Hortnagel (double bass), Richter (piano)/LP
+* Ax/Frank/Young/Ma/Meyer/CD
 * G. Henle/study score
 ## Quintet in C Major
 * Martin Chusid/Barenreiter/study score
+## "The Trout"
+* Barbara Bonney (Soprano)/Ax (Piano)/CD
+## Sonata for Piano and Arpeggione in A minor
+* Ma/Ax/CD
 ## Sonata in B-Flat (Op Posth)
 * Rubinstein/LP
 
@@ -680,6 +755,7 @@
 # Scriabin
 ## Etudes Op 42
 * No 5: Gavrilov/LP
+* No 5: Kissin/CD
 ## Preludes Op 9
 * No 1: Gavrilov/LP
 ## Preludes Op 11
@@ -690,12 +766,15 @@
 * No 1, 5: Gavrilov/LP
 ## Preludes Op 16
 * No 2, 4: Gavrilov/LP
+## Four Pieces Op 51
+* Kissin/CD
 ## Sonata No 4
 * Gavrilov/LP
 
 # Shostakovich
 ## Violin Concerto 2
 * Oistrakh/Kondrashin/Moscow Philharmonic Symphony Orchestra/LP (x2)
+* Vengerov/Rostropovich/LSO/CD
 ## Cello Concerto 1
 * Ma/Ormandy/Philadelphia Ormandy/LP
 * Rostropovich/Ormandy/Philadelphia Orchestra/LP
@@ -762,6 +841,10 @@
 * Boulez/Cleveland Orchestra/LP
 * Stravinsky/Columbia Symphony Orchestra/LP
 
+# Strauss, Johann II
+## Die Fledermaus (opera)
+* Karajan/Philharmonia Orchestra/CD
+
 # Strauss, Richard
 ## Death and Transfiguration
 * Reiner/VPO/LP
@@ -774,7 +857,7 @@
 * Argerich/Dutoit/RPO/LP
 * Argerich/Kondrashin/Bavarian Radio Symphony Orchestra/LP
 * Gilels/Reiner/Chicago Symphony/LP
-* Horowitz/Barbirolli/NY Phil/CD (sealed)
+* Horowitz/Barbirolli/NY Phil/CD
 * Breitkopf & Hartel/study score
 ## Violin Concerto
 * Heifetz/Barbirolli/LPO/CD
@@ -793,6 +876,10 @@
 * Christoph Flamm/Breitkopf & Hartel/study score
 ## Symphony 6
 * Breitkopf & Hartel/study score
+## 1812 Overture
+* Karajan/BPO/CD
+## Capriccio Italien
+* Karajan/BPO/CD
 
 # Verdi
 ## Rigoletto
@@ -828,7 +915,7 @@
 
 # Wieniawski
 ## Violin Concerto 1
-* Perlman/Ozawa/LPO
+* Perlman/Ozawa/LPO/CD
 ## Violin Concerto 2
 * Heifetz/Barbirolli/LPO/CD
-* Perlman/Ozawa/LPO
+* Perlman/Ozawa/LPO/CD
