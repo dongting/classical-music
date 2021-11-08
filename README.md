@@ -79,6 +79,7 @@
 
 # Beethoven
 ## Violin Concerto
+* Perlman/Giulini/Philharmonia Orchestra/CD
 * Del Mar/Barenreiter/study score
 ## Piano Concerto 1
 * Gilels/Masur/State Symphony Orchestra of the USSR/CD
@@ -159,12 +160,15 @@
 * Karajan/BPO/Perry, Baltsa, Cole, van Dam/CD (1984)
 * Ozawa/New Philharmonia Orchestra/Napier, Reynolds, Brilioth, Ridderbusch/LP
 * Rattle/VPO/Bonney, Remmert, Streit, Hampson/CD
+* Szell/Cleveland Orchestra/Addison, Hobson, Lewis, Bell/CD
 * Del Mar/Barenreiter/study score
 * Peter Hauschild/Breitkopf & Hartel/study score
 ## Coriolan Overture
 * Szell/Cleveland Orchestra/LP
 ## Egmont Overture
 * Szell/Cleveland Orchestra/LP
+## Fidelio Overture
+* Szell/Cleveland Orchestra/CD
 ## Konig Stefan Overture
 * Szell/Cleveland Orchestra/LP
 ## Leonore Overture No 2
@@ -258,6 +262,7 @@
 # Bizet
 ## Carmen (opera)
 * Baltsa, Carreras, van Dam/Karajan/BPO/CD
+* Norman, Shicoff/Ozawa/Orchestre National de France/CD
 ## Carmen Suite 1
 * Karajan/BPO/CD
 * Karajan/BPO/LP
@@ -371,20 +376,32 @@
 * No 1, 2, 3, 8: Barry Wordsworth/Slovak Philharmonic Orchestra/CD
 ## Slavonic Dances Op 72
 * No 1-8: Szell/Cleveland Orchestra/LP
+## Symphony 1
+* Kubelik/BPO/CD
+## Symphony 2
+* Kubelik/BPO/CD
+## Symphony 3
+* Kubelik/BPO/CD
+## Symphony 4
+* Kubelik/BPO/CD
+## Symphony 5
+* Kubelik/BPO/CD
 ## Symphony 6
+* Kubelik/BPO/CD
 * Kubelik/BPO/LP
 ## Symphony 7
 * Bernstein/NY Phil/LP
+* Kubelik/BPO/CD
 * Del Mar/Barenreiter/study score
 ## Symphony 8
 * Barbirolli/Halle Orchestra/LP
-* Kubelik/BPO/CD
+* Kubelik/BPO/CD (x2)
 * Szell/Cleveland Orchestra/LP
 * Frantisek Bartos/Barenreiter/study score
 ## Symphony 9
 * Bernstein/NY Phil/CD
 * Karajan/BPO/LP
-* Kubelik/BPO/CD
+* Kubelik/BPO/CD (x2)
 * Kubelik/BPO/LP
 * Frantisek Bartos/Barenreiter/study score
 ## String Quartet Op 96 "American"
@@ -505,14 +522,21 @@
 
 # Mendelssohn
 ## Violin Concerto
+* Heifetz/Munch/Boston Symphony/CD
 * Heifetz/Munch/Boston Symphony/LP (x2)
 * Perlman/Previn/LSO/LP
+* Stern/Ormandy/Philadelphia Orchestra/CD
 * Stern/Ormandy/Philadelphia Orchestra/LP
+* Szeryng/Haitink/Concertgebouw/CD
 * R. Larry Todd, Clive Brown/Barenreiter/study score
+## Symphony 3
+* Haitink/LPO/CD
 ## A Midsummer Night's Dream
 * Haitink/Concertgebouw/LP
 ## Scherzo a capriccio
 * Horowitz/LP
+## Overture, The Hebrides (Fingal's Cave)
+* Haitink/LPO/CD
 
 # Mozart
 ## Marriage of Figaro
@@ -619,6 +643,7 @@
 * Rachmaninoff/Ormandy/Philadelphia Orchestra/CD
 ## Piano Concerto 2
 * Ashkenazy/Previn/LSO/CD (signed)
+* Cliburn/Reiner/Chicago Symphony/CD
 * Hough/Andrew Litton/Dallas Symphony/CD
 * Janis/Dorati/Minneapolis Symphony Orchestra/CD (missing CD)
 * Kissin/Gergiev/LSO/CD
@@ -856,30 +881,45 @@
 * Argerich/Dutoit/RPO/CD
 * Argerich/Dutoit/RPO/LP
 * Argerich/Kondrashin/Bavarian Radio Symphony Orchestra/LP
+* Cliburn/Kondrashin/RCA Symphony/CD
 * Gilels/Reiner/Chicago Symphony/LP
 * Horowitz/Barbirolli/NY Phil/CD
 * Breitkopf & Hartel/study score
 ## Violin Concerto
 * Heifetz/Barbirolli/LPO/CD
+* Heifetz/Reiner/Chicago Symphony/CD
 * Heifetz/Reiner/Chicago Symphony/LP
+* Stern/Ormandy/Philadelphia Orchestra/CD
 * Stern/Ormandy/Philadelphia Orchestra/LP
 * Ernst Herttrich/Breitkopf & Hartel/study score
-## Marche Slave
-* Mehta/LA Phil/LP
 ## Symphony 4
 * Abbado/VPO/LP
+* Barenboim/Chicago Symphony/CD
 * Haitink/Concertgebouw/LP
 * Karl Bohm/LSO/LP
 * Karajan/BPO/LP
 * Eulenburg/study score
 ## Symphony 5
+* Gergiev/VPO/CD
+* Ormandy/Philadelphia Orchestra/CD
+* Szell/Cleveland Orchestra/CD
 * Christoph Flamm/Breitkopf & Hartel/study score
 ## Symphony 6
+* Maazel/Cleveland Orchestra/CD
 * Breitkopf & Hartel/study score
 ## 1812 Overture
 * Karajan/BPO/CD
+* Maazel/VPO/CD
 ## Capriccio Italien
 * Karajan/BPO/CD
+* Szell/Cleveland Orchestra/CD
+## Marche Slave
+* Maazel/VPO/CD
+* Mehta/LA Phil/LP
+## Romeo and Juliet
+* Barenboim/Chicago Symphony/CD
+## Serenade for String Orchestra in C Major
+* Ormandy/Philadelphia Orchestra/CD
 
 # Verdi
 ## Rigoletto
