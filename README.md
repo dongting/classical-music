@@ -26,6 +26,7 @@
 - [Lutoslawski](#lutoslawski)
 - [Mahler](#mahler)
 - [Mendelssohn](#mendelssohn)
+- [Moszkowski](#moszkowski)
 - [Mozart](#mozart)
 - [Mussorgsky](#mussorgsky)
 - [Paganini](#paganini)
@@ -37,6 +38,7 @@
 - [Rimsky-Korsakov](#rimsky-korsakov)
 - [Saint-Saens](#saint-saens)
 - [Satie](#satie)
+- [Scarlatti](#scarlatti)
 - [Schubert](#schubert)
 - [Schumann](#schumann)
 - [Scriabin](#scriabin)
@@ -128,6 +130,7 @@
 * Bernstein/VPO/CD
 * Karajan/BPO/CD (1963)
 * Karajan/BPO/CD (1984-86)
+* C Kleiber/VPO/CD
 * Rattle/VPO/CD
 * Del Mar/Barenreiter/study score
 ## Symphony 6 "Pastoral"
@@ -142,7 +145,8 @@
 * Karajan/BPO/CD (1963)
 * Karajan/BPO/CD (1984-86)
 * Karajan/BPO/LP
-* Carlos Kleiber/VPO/LP (sealed)
+* C Kleiber/VPO/CD
+* C Kleiber/VPO/LP (sealed)
 * Rattle/VPO/CD
 * Del Mar/Barenreiter/study score
 ## Symphony 8
@@ -255,14 +259,19 @@
 ## Symphony 3 "Kaddish"
 * Bernstein/Israel Philharmonic Orchestra/LP
 ## Symphonic Dances from West Side Story
+* Bernstein/LA Phil/CD
 * Ozawa/SF Symphony/LP
-## West Side Story (full)
-* Te Kanawa/Carreras/Troyanos/Ollmann/Bernstein/LP
+## West Side Story
+* Full: Te Kanawa/Carreras/Troyanos/Ollmann/Bernstein/LP
+* Highlights: Te Kanawa/Carreras/Troyanos/Ollmann/Bernstein/CD
 
 # Bizet
 ## Carmen (opera)
 * Baltsa, Carreras, van Dam/Karajan/BPO/CD
+* Berganza, Domingo, Milnes/Abbado/LSO/CD
+* Berganza, Domingo, Milnes/Abbado/LSO/Blu-ray
 * Norman, Shicoff/Ozawa/Orchestre National de France/CD
+* Obraztsova, Domingo, Mazurok/C Kleiber/Vienna State Opera/CD
 ## Carmen Suite 1
 * Karajan/BPO/CD
 * Karajan/BPO/LP
@@ -317,6 +326,10 @@
 # Chopin
 ## 10 Mazurkas
 * Arturo Benedetti Michelangeli/LP
+## Mazurka Op 7
+* No 3: Horowitz/CD
+## Mazurka Op 30
+* No 4: Horowitz/CD
 ## Ballade Op 23
 * Arturo Benedetti Michelangeli/LP
 ## Prelude Op 45
@@ -362,7 +375,7 @@
 ## Rondo for Cello & Orchestra
 * Yo-Yo Ma/Maazel/BPO/CD
 ## Piano Concerto
-* Richter/Carlos Kleiber/Bavarian State Orchestra/LP
+* Richter/C Kleiber/Bavarian State Orchestra/LP
 ## Carnival Overture
 * Bernstein/NY Phil/CD
 ## Klid/Silent Woods
@@ -451,7 +464,10 @@
 * Ozawa/SF Symphony/LP
 * Previn/LSO/CD
 ## Rhapsody in Blue
+* Bernstein/LA Phil/CD
 * Previn/LSO/CD
+## Prelude for Piano No 2
+* Bernstein/CD
 
 # Glazunov
 ## Concerto in A minor Op 82
@@ -467,6 +483,8 @@
 ## Peer Gynt Suites 1 & 2
 * Karajan/BPO/CD
 * Gennady Rozhdestvensky/Moscow Radio Symphony Orchestra/LP
+## Peer Gynt Op 23 (exerpts)
+* Edo de Waart/SF Symphony/CD
 ## Lyric Suite
 * Gennady Rozhdestvensky/Moscow Radio Symphony Orchestra/LP
 
@@ -495,6 +513,10 @@
 * Georges Cziffra/Gyorgy Cziffra Jr/Orchestre de Paris/CD
 ## Totentanz
 * Georges Cziffra/Gyorgy Cziffra Jr/Orchestre de Paris/CD
+## Soirees de Vienne: Valse-Caprice No 6
+* Horowitz/CD
+## Sonetto 104 del Petrarca
+* Horowitz/CD
 
 # Lutoslawski
 ## Variations on a Theme by Paganini
@@ -533,16 +555,23 @@
 * Haitink/LPO/CD
 ## A Midsummer Night's Dream
 * Haitink/Concertgebouw/LP
+* Previn/LSO/CD
 ## Scherzo a capriccio
 * Horowitz/LP
 ## Overture, The Hebrides (Fingal's Cave)
 * Haitink/LPO/CD
+
+# Moszkowski
+## Etincelles Op 36 No 6
+* Horowitz/CD
 
 # Mozart
 ## Marriage of Figaro
 * van Dam/Cotrubas/Tomowa-Sintow/von Stade/Krause/Karajan/VPO/LP
 ## Sonata No 18
 * Argerich/CD
+## Sonata in C major K.330
+* Horowitz/CD
 
 # Mussorgsky
 ## Night on the bald mountain
@@ -552,6 +581,7 @@
 ## Pictures at an exhibition (orchestral-Ravel)
 * Colin Davis/Concertgebouw/LP
 * Dutoit/Montreal Symphony/CD
+* Karajan/BPO/CD
 * Mehta/LA Phil/LP
 * Rattle/BPO/CD
 * Arbie Orenstein/Eulenburg/study score
@@ -604,6 +634,9 @@
 * Koussevitzky/Boston Symphony/LP
 ## Le pas d'acier (The age of steel)
 * Gennady Rozhdestvensky/Moscow Radio Symphony Orchestra/LP
+* Gennady Rozhdestvensky/USSR Ministry of Culture Symphony Orchestra/CD
+## Ode to the End of the War
+* Gennady Rozhdestvensky/USSR Ministry of Culture Symphony Orchestra/CD
 ## Romeo and Juliet (full)
 * Gergiev/Kirov Orchestra Leningrad/CD
 * Maazel/Cleveland Orchestra/CD
@@ -686,10 +719,15 @@
 ## Prelude Op 23
 * No 2: Kissin/CD
 * No 6: Janis/CD
+## Prelude Op 32
+* No 5: Horowitz/CD
+* No 12: Horowitz/CD
 ## Sonata 2
 * Horowitz/LP
 ## Vocalise Op 34 No 14
 * Kissin/CD
+## Polka de W.R
+* Horowitz/CD
 ## Russian Rhapsody for two pianos
 * John Ogdon/Brenda Lucas/CD
 ## Suite No 1 for two pianos (Fantasie)
@@ -699,29 +737,51 @@
 * John Ogdon/Brenda Lucas/CD
 
 # Ravel
+## Alborada del gracioso
+* Ozawa/Boston Symphony/CD
+## Une Barque sur l'ocean
+* Ozawa/Boston Symphony/CD
 ## Bolero
 * Karajan/BPO/LP (sealed)
 * Mehta/LA Phil/LP
+* Ozawa/Boston Symphony/CD
 ## Daphnis et Chloe
 * Munch/Boston Symphony/LP
+* Ozawa/Boston Symphony/CD
 ## Gaspard de la nuit
 * Argerich/CD
-## La Valse (transcription for two pianos)
-* Martha Argerich/Nelson Freire/CD
+## Ma Mere l'Oye
+* Ozawa/Boston Symphony/CD
+## Menuet antique
+* Ozawa/Boston Symphony/CD
+## Pavane pour une Infante defunte
+* Ozawa/Boston Symphony/CD
+## Rapsodie espagnole
+* Ozawa/Boston Symphony/CD
+## Le Tombeau de Couperin
+* Ozawa/Boston Symphony/CD
+## La Valse
+* Two pianos: Martha Argerich/Nelson Freire/CD
+* Ozawa/Boston Symphony/CD
+## Valses nobles et sentimentales
+* Ozawa/Boston Symphony/CD
 ## Sonatine
 * Argerich/CD
 
 # Rimsky-Korsakov
 ## Capriccio Espagnol
 * Georges Pretre/RPO/LP (sealed)
+* Ormandy/Philaddelphia Orchestra/CD
 ## Scheherazade
 * Bernstein/NY Phil/John Corigliano (Violin)/CD
 * Bernstein/NY Phil/John Corigliano (Violin)/LP
 * Karajan/BPO/CD
+* Ormandy/Philaddelphia Orchestra/Anshel Brusilow (Violin)/CD
 * Ormandy/Philaddelphia Orchestra/Norman Carol (Violin)/LP
 * Eulenburg/study score
 ## Russian Easter Festival Overture
 * Dutoit/Montreal Symphony/CD
+* Ormandy/Philaddelphia Orchestra/CD
 
 # Saint-Saens
 ## Piano Concerto 1
@@ -757,6 +817,10 @@
 ## Sarabande
 * Poulenc/LP
 
+# Scarlatti
+## Sonata in E major
+* Horowitz/CD
+
 # Schubert
 ## Quintet in A Major "Trout"
 * Borodin Quartet, Georg Hortnagel (double bass), Richter (piano)/LP
@@ -776,8 +840,14 @@
 * Horowitz/LP
 ## Nachtstucke (Op 23)
 * Horowitz/LP
+## Traumerei
+* Horowitz/CD
 
 # Scriabin
+## Etudes Op 2
+* No 1: Horowitz/CD
+## Etudes Op 8
+* No 12: Horowitz/CD
 ## Etudes Op 42
 * No 5: Gavrilov/LP
 * No 5: Kissin/CD
@@ -839,6 +909,7 @@
 * Overture and selection: Barry Wordsworth/Slovak Philharmonic Orchestra/CD
 ## Ma Vlast
 * Vltava: Barry Wordsworth/Slovak Philharmonic Orchestra/CD
+* Kubelik/Boston Symphony/CD
 
 # Sibelius
 ## Violin Concerto
@@ -864,11 +935,14 @@
 ## Rite of Spring
 * Boulez/Cleveland Orchestra/CD
 * Boulez/Cleveland Orchestra/LP
+* Karajan/BPO/CD
 * Stravinsky/Columbia Symphony Orchestra/LP
 
 # Strauss, Johann II
 ## Die Fledermaus (opera)
 * Karajan/Philharmonia Orchestra/CD
+* C Kleiber/Bavarian State Opera/CD
+* C Kleiber/Bavarian State Opera/Blu-ray
 
 # Strauss, Richard
 ## Death and Transfiguration
@@ -898,6 +972,7 @@
 * Haitink/Concertgebouw/LP
 * Karl Bohm/LSO/LP
 * Karajan/BPO/LP
+* Rozhdestvensky/LSO/CD
 * Eulenburg/study score
 ## Symphony 5
 * Gergiev/VPO/CD
@@ -905,6 +980,7 @@
 * Szell/Cleveland Orchestra/CD
 * Christoph Flamm/Breitkopf & Hartel/study score
 ## Symphony 6
+* Bernstein/NY Phil/CD
 * Maazel/Cleveland Orchestra/CD
 * Breitkopf & Hartel/study score
 ## 1812 Overture
@@ -916,6 +992,7 @@
 ## Marche Slave
 * Maazel/VPO/CD
 * Mehta/LA Phil/LP
+* Rozhdestvensky/LSO/CD
 ## Romeo and Juliet
 * Barenboim/Chicago Symphony/CD
 ## Serenade for String Orchestra in C Major
