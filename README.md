@@ -654,6 +654,7 @@
 * Abbado/BPO/CD
 * Bernstein/VPO/CD
 * Erwin Ratz and Karl Heinz Fussl/Eulenburg/study score
+* Reinhold Kubik/Universal Edition/study score
 
 # Mendelssohn
 ## Violin Concerto
