@@ -68,10 +68,13 @@
 
 # Bartok
 ## Piano Concerto 1
+* Donohoe/Rattle/City of Birmingham Symphony Orchestra/CD
 * Pollini/Abbado/Chicago/CD
 ## Piano Concerto 2
+* Donohoe/Rattle/City of Birmingham Symphony Orchestra/CD
 * Pollini/Abbado/Chicago/CD
 ## Piano Concerto 3
+* Donohoe/Rattle/City of Birmingham Symphony Orchestra/CD
 * Argerich/Dutoit/Montreal Symphony/CD
 ## Violin Concerto 1
 * Menuhin/Dorati/New Philharmonia Orchestra/LP
@@ -88,13 +91,24 @@
 
 # Beethoven
 ## Violin Concerto
+* Nishizaki/Jean/Slovak Philharmonic/CD
 * Perlman/Giulini/Philharmonia Orchestra/CD
+* Szigeti/Walter/British Symphony Orchestra/CD
 * Del Mar/Barenreiter/study score
+## Romance No 1
+* Nishizaki/Jean/Slovak Philharmonic/CD
+* Szeryng/Haitink/Concertgebouw/CD
+## Romance No 2
+* Nishizaki/Jean/Slovak Philharmonic/CD
+* Szeryng/Haitink/Concertgebouw/CD
 ## Piano Concerto 1
 * Gilels/Masur/State Symphony Orchestra of the USSR/CD
 * Gilels/Szell/Cleveland Orchestra/CD
 * Gilels/Szell/Cleveland Orchestra/LP
+* Lang/Eschenbach/Orchestre de Paris/CD
 * Lupu/Mehta/Israel Philharmonic/LP
+* Michelangeli/Giulini/VPO/CD
+* Richter/Munch/Boston Symphony/CD
 * Del Mar/Barenreiter/study score
 ## Piano Concerto 2
 * Gilels/Masur/State Symphony Orchestra of the USSR/CD
@@ -106,10 +120,12 @@
 * Gilels/Masur/State Symphony Orchestra of the USSR/CD
 * Gilels/Szell/Cleveland Orchestra/CD
 * Gilels/Szell/Cleveland Orchestra/LP
+* Michelangeli/Giulini/VPO/CD
 * Del Mar/Barenreiter/study score
 ## Piano Concerto 4
 * Gilels/Masur/State Symphony Orchestra of the USSR/CD
 * Gilels/Szell/Cleveland Orchestra/CD
+* Lang/Eschenbach/Orchestre de Paris/CD
 ## Piano Concerto 5 "Emperor"
 * Cliburn/Reiner/Chicago Symphony/LP
 * Gilels/Masur/State Symphony Orchestra of the USSR/CD
@@ -130,6 +146,7 @@
 * Szell/Cleveland Orchestra/CD
 ## Symphony 3 "Eroica"
 * Bernstein/VPO/CD
+* Halasz/Czechoslovak Radio Symphony Orchestra (Bratislava)/CD
 * Karajan/BPO/CD (1963)
 * Karajan/BPO/CD (1984-86)
 * Karajan/BPO/LP
@@ -198,6 +215,8 @@
 ## King Stephen Overture
 * Szell/Cleveland Orchestra/CD
 * Szell/Cleveland Orchestra/LP
+## Leonore Overture No 1
+* Halasz/Czechoslovak Radio Symphony Orchestra (Bratislava)/CD
 ## Leonore Overture No 2
 * Szell/Cleveland Orchestra/LP
 ## Leonore Overture No 3
@@ -241,8 +260,11 @@
 * Gilels/LP
 ## Piano Sonata 20 (Op 49)
 * Gilels/LP
+## Piano Sonata 22 (Op 54)
+* Richter/CD
 ## Piano Sonata 23 "Appassionata" (Op 57)
 * Gilels/CD
+* Richter/CD
 * Horowitz/LP
 ## Piano Sonata 25 (Op 79)
 * Gilels/CD
@@ -253,26 +275,48 @@
 ## Piano Sonata 29 "Hammerklavier" (Op 106)
 * Gilels/CD
 ## Violin Sonata 1, Op 12 No 1
+* Messiereur/Bogunia/CD
+* Szeryng/Haebler/CD
 * Zukerman/Barenboim/CD
 ## Violin Sonata 2, Op 12 No 2
+* Messiereur/Bogunia/CD
+* Szeryng/Haebler/CD
 * Zukerman/Barenboim/CD
 ## Violin Sonata 3, Op 12 No 3
+* Messiereur/Bogunia/CD
+* Szeryng/Haebler/CD
 * Zukerman/Barenboim/CD
 ## Violin Sonata 4, Op 23
+* Messiereur/Bogunia/CD
+* Szeryng/Haebler/CD
 * Zukerman/Barenboim/CD
 ## Violin Sonata 5 "Spring", Op 24
+* Messiereur/Bogunia/CD
+* Nishizaki/Jando/CD
+* Szeryng/Haebler/CD
 * Zukerman/Barenboim/CD
 ## Violin Sonata 6, Op 30 No 1
+* Messiereur/Bogunia/CD
+* Szeryng/Haebler/CD
 * Zukerman/Barenboim/CD
 ## Violin Sonata 7, Op 30 No 2
+* Messiereur/Bogunia/CD
+* Szeryng/Haebler/CD
 * Zukerman/Barenboim/CD
 ## Violin Sonata 8, Op 30 No 3
+* Messiereur/Bogunia/CD
+* Szeryng/Haebler/CD
 * Zukerman/Barenboim/CD
 * Zukerman/Barenboim/LP
 ## Violin Sonata 9 "Kreutzer", Op 47
+* Messiereur/Bogunia/CD
+* Nishizaki/Jando/CD
+* Szeryng/Haebler/CD
 * Zukerman/Barenboim/CD
 * Zukerman/Barenboim/LP
 ## Violin Sonata 10, Op 96
+* Messiereur/Bogunia/CD
+* Szeryng/Haebler/CD
 * Zukerman/Barenboim/CD
 ## Cello Sonata 1, Op 5 No 1
 * Du Pre/Barenboim/CD
@@ -346,6 +390,10 @@
 * Borodin String Quartet/CD
 
 # Berlioz
+## Symphonie Fantastique
+* Mackerras/RPO
+## Roman Carnival
+* Mackerras/RPO
 ## Harold in Italy
 * Beecham/RPO/William Primrose (Viola)/LP
 
@@ -431,6 +479,8 @@
 * Karajan/VPO/CD
 
 # Chopin
+## Piano Concerto 2
+* Ashkenazy/Zinman/LSO/CD
 ## 10 Mazurkas
 * Arturo Benedetti Michelangeli/LP
 ## Mazurka Op 7
@@ -586,6 +636,7 @@
 
 # Grieg
 ## Piano Concerto
+* Cziffra/Cziffra Jr/Budapest Symphony Orchestra/CD
 * Philippe Entremont/Ormandy/Philadelphia Orchestra/LP
 ## Aus Holbergs Zeit
 * Karajan/BPO/CD
@@ -680,6 +731,8 @@
 * Horowitz/CD
 
 # Mozart
+## Violin Concerto No 4
+* Szigeti/Beecham/LPO/CD
 ## Marriage of Figaro
 * van Dam/Cotrubas/Tomowa-Sintow/von Stade/Krause/Karajan/VPO/LP
 ## Sonata No 18
@@ -705,6 +758,11 @@
 * Dutoit/Montreal Symphony/CD
 
 # Paganini
+## Violin Concerto 1
+* Accardo/Dutoit/LPO/CD
+* Shaham/Sinopolo/NY Phil/CD
+## Violin Concerto 2
+* Accardo/Dutoit/LPO/CD
 ## 24 Caprices
 * Perlman/CD
 
@@ -723,14 +781,21 @@
 # Prokofiev
 ## Piano Concerto 1
 * Argerich/Dutoit/Montreal Symphony/CD
+* Ashkenazy/Previn/LSO/CD
 * Kissin/Abbado/BPO/CD
 ## Piano Concerto 2
+* Ashkenazy/Previn/LSO/CD
 * Yuja Wang/Dudamel/Simon Bolivar Symphony/CD (signed)
 ## Piano Concerto 3
 * Argerich/Abbado/BPO/CD
 * Argerich/Dutoit/Montreal Symphony/CD
+* Ashkenazy/Previn/LSO/CD
 * Cliburn/Walter Hendl/Chicago Symphony/CD
 * Kissin/Abbado/BPO/CD
+## Piano Concerto 4
+* Ashkenazy/Previn/LSO/CD
+## Piano Concerto 5
+* Ashkenazy/Previn/LSO/CD
 ## Violin Concerto 1 in D major
 * Oistrakh/Lovro von Matacic/LSO/CD
 ## Violin Concerto 2 in G minor
@@ -795,34 +860,57 @@
 ## Piano Concerto 1
 * Ashkenazy/Previn/LSO/CD (signed)
 * Hough/Andrew Litton/Dallas Symphony/CD
+* Lill/Otaka/BBC National Orchestra of Wales/CD
+* Lugansky/Oramo/City of Birmingham Symphony Orchestra/CD
 * Rachmaninoff/Ormandy/Philadelphia Orchestra/CD
 ## Piano Concerto 2
+* Ashkenazy/Kondrashin/Moscow Philharmonic Orchestra/CD
 * Ashkenazy/Previn/LSO/CD (signed)
 * Cliburn/Reiner/Chicago Symphony/CD
+* Cziffra/Cziffra Jr/New Philharmonia Orchestra/CD
+* Eresko/Provatorov/USSR Symphony Orchestra/CD
 * Hough/Andrew Litton/Dallas Symphony/CD
 * Janis/Dorati/Minneapolis Symphony Orchestra/CD (missing CD)
 * Kissin/Gergiev/LSO/CD
+* Prats/Batiz/Mexico City Philharmonic Orchestra/CD
+* Rachmaninoff/Stokowski/Philadelphia Orchestra/CD
+* Vasary/Ahronovitch/LSO/CD
 * Boosey & Hawkes/study score
 ## Piano Concerto 3
+* Argerich/Chailly/RSO Berlin/CD
+* Ashkenazy/Fistoulari/LSO/CD
 * Ashkenazy/Previn/LSO/CD (signed)
 * Cliburn/Kondrashin/Symphony of the Air/CD
+* Eresko/Provatorov/USSR Symphony Orchestra/CD
+* Glemser/Maksymiuk/National Symphony Orchestra of Ireland/CD
+* Helfgott/Horvat/Copenhagen Philharmonic Orchestra/CD
 * Horowitz/Barbirolli/NY Phil/CD
+* Horowitz/Ormandy/NY Phil/CD
 * Hough/Andrew Litton/Dallas Symphony/CD
 * Janis/Dorati/LSO/CD (missing CD)
 * Kissin/Ozawa/Boston Symphony/CD
+* Lugansky/Oramo/City of Birmingham Symphony Orchestra/CD
+* Lugansky/Shpiller/State Academy Symphony Orchestra of Russia/CD
+* Ozolins/Bernardi/Toronto Symphony Orchestra/CD
+* Rachmaninoff/Ormandy/Philadelphia Orchestra/CD
 * Yuja Wang/Dudamel/Simon Bolivar Symphony/CD (signed)
+* Vasary/Ahronovitch/LSO/CD
 ## Piano Concerto 4
 * Ashkenazy/Previn/LSO/CD (signed)
 * Hough/Andrew Litton/Dallas Symphony/CD
+* Lugansky/Shpiller/State Academy Symphony Orchestra of Russia/CD
 * Rachmaninoff/Ormandy/Philadelphia Orchestra/CD
 ## Rhapsody on a theme of Paganini
 * Cliburn/Kondrashin/Moscow Philharmonic Orchestra/CD
 * Hough/Andrew Litton/Dallas Symphony/CD
+* Prats/Batiz/Mexico City Philharmonic Orchestra/CD
 * Rachmaninoff/Stokowski/Philadelphia Orchestra/CD
 ## The Isle of the Dead
 * Andrew Davis/Royal Stockholm Philharmonic Orchestra/CD
 ## Symphonic Dances
 * Andrew Davis/Royal Stockholm Philharmonic Orchestra/CD
+## Prince Rostislav, Symphonic Poem
+* Maksymiuk/National Symphony Orchestra of Ireland/CD
 ## Symphony 1
 * Previn/LSO/LP
 ## Symphony 2
@@ -836,15 +924,22 @@
 ## Etudes-Tableaux Op 39
 * No 1, 2, 4, 5, 6, 9: Kissin/CD
 ## Prelude Op 3
+* No 2: Ashkenazy/CD
+* No 2: Helfgott/CD
 * No 2: Janis/CD
 * No 2: John Ogdon/Brenda Lucas/CD
 ## Prelude Op 23
+* All: Ashkenazy/CD
 * No 2: Kissin/CD
+* No 5: Helfgott/CD
 * No 6: Janis/CD
 ## Prelude Op 32
-* No 5: Horowitz/CD
-* No 12: Horowitz/CD
+* All: Ashkenazy/CD
+* No 5, 12: Helfgott/CD
+* No 5, 12: Horowitz/CD
 ## Sonata 2
+* Helfgott/CD
+* Horowitz/CD
 * Horowitz/LP
 ## Vocalise Op 34 No 14
 * Kissin/CD
@@ -859,6 +954,14 @@
 * John Ogdon/Brenda Lucas/CD
 ## Sonata for Cello, Op 19
 * Ma/Ax/CD
+## Two pieces for cello and piano
+* The Moscow Rachmaninov Trio/CD
+## Two pieces for violin and piano
+* The Moscow Rachmaninov Trio/CD
+## Trio elegiaque No 1
+* The Moscow Rachmaninov Trio/CD
+## Trio elegiaque No 2
+* The Moscow Rachmaninov Trio/CD
 
 # Ravel
 ## Alborada del gracioso
@@ -908,6 +1011,8 @@
 * Ormandy/Philaddelphia Orchestra/CD
 
 # Saint-Saens
+## Violin Concerto No 3
+* Shaham/Sinopolo/NY Phil/CD
 ## Piano Concerto 1
 * Jean-Philippe Collard/Previn/RPO/CD
 ## Piano Concerto 2
@@ -1121,12 +1226,16 @@
 * Reiner/VPO/LP
 ## Till Eulenspiegel's Merry Pranks
 * Reiner/VPO/LP
+## Burleske in D minor for Piano and Orchestra
+* Ozolins/Bernardi/Toronto Symphony Orchestra/CD
 
 # Tchaikovsky
 ## Piano Concerto 1
 * Argerich/Dutoit/RPO/CD
 * Argerich/Dutoit/RPO/LP
+* Argerich/Kondrashin/Bavarian Radio Symphony Orchestra/CD
 * Argerich/Kondrashin/Bavarian Radio Symphony Orchestra/LP
+* Ashkenazy/Maazel/LSO/CD
 * Cliburn/Kondrashin/RCA Symphony/CD
 * Gilels/Reiner/Chicago Symphony/LP
 * Horowitz/Barbirolli/NY Phil/CD
